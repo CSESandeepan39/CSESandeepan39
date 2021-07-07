@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sandeepan Mohanty.
 - 👀 I’m interested in competitive programming and web development.
-- 🌱 I’m currently learning c,html,css,phython.
+- 🌱 I’m currently learning c,html,css,python.
+- I want to be a full stack developer.
 
 
 <!---
