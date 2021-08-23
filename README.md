@@ -43,12 +43,11 @@ Recently, I am much involved in the "Competitive programming","Opensource","ML".
 ### What are my featured projects:question::rocket:
 <code>[ Payment Gateway ](https://csesandeepan39.github.io/The-sparks-foundation-web-dev/)</code> 💬   
 <code>[Architecture](https://csesandeepan39.github.io/LGM-VIP-1/)</code>🏛    
-<code>[Valcones Map ](https://github.com/soumik2012/Volcanoes_Map)</code>🌋  
-<code>[Dictinary GUI](https://github.com/soumik2012/Dictionary_GUI)</code>:robot:
+
 
 
 ### Earned Badges
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
+<img src="" alt="hacktoberfest2020" width="100" height="100">
 
 
 
