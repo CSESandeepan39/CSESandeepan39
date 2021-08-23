@@ -29,8 +29,8 @@ I am a self taught developer, trying to dive deep in the ocean of web world and 
 
 ### 🤔 What do I do? 
 
- - :green_book: I am a 2nd year CSE Sophomore, with a great interest in NL.
- - :green_book: Building projects in Webdev and Ml.
+ - :green_book: I am a 2nd year CSE Sophomore, with a great interest in ML.
+ - :green_book: Building projects in Webdev and ML.
  - :green_book: Looking for interesting opportunities in Software Engineering.
 
 ## Languages and Tools ⚙
@@ -47,19 +47,18 @@ Recently, I am much involved in the "Competitive programming","Opensource","ML".
 
 
 ### Earned Badges
-<img src="" alt="hacktoberfest2020" width="100" height="100">
+<img src="badge.png" alt="hacktoberfest2020" width="200" height="120">
 
 
 
 ### 📶 Stats:
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=soumik2012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=CSESandeepan39&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumik2012&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik2012&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSESandeepan39&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
-[linkedin]: https://www.linkedin.com/in/soumik-baithalu-7a4983198/
-[twitter]: https://twitter.com/SoumikBaithalu
-[instagram]: https://www.instagram.com/_soumikk_._/?hl=en
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSESandeepan39&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[linkedin]: https://www.linkedin.com/in/sandeepan-mohanty-979908204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo6ONfl5uTpupDW5q%2BfWvzw%3D%3D
+
