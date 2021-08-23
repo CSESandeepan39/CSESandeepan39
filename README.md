@@ -42,7 +42,7 @@ Recently, I am much involved in the "Competitive programming","Opensource","ML".
 
 ### What are my featured projects:question::rocket:
 <code>[ Payment Gateway ](https://csesandeepan39.github.io/The-sparks-foundation-web-dev/)</code> 💬   
-<code>[Gesture Volume control](https://github.com/soumik2012/Gesture-Volume-Control)</code>:hand:    
+<code>[Architecture](https://csesandeepan39.github.io/LGM-VIP-1/)</code>🏛    
 <code>[Valcones Map ](https://github.com/soumik2012/Volcanoes_Map)</code>🌋  
 <code>[Dictinary GUI](https://github.com/soumik2012/Dictionary_GUI)</code>:robot:
 
