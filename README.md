@@ -5,7 +5,7 @@
 - 🔭 Open-source contributor for GWOC'21 [Here](https://www.linkedin.com/posts/activity-6829694955611594752-U2He)
 - 🌱 I’m currently learning Machine learning and Competitive Programming.
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play badminton and Basketball
+- ⚡ Fun fact: I love to play badminton and basketball
 - 👯 I’m looking to collaborate on Basic ML Projects
 
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
