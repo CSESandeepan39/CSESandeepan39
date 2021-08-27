@@ -58,7 +58,7 @@ Recently, I am much involved in the "Competitive programming","Opensource","ML".
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSESandeepan39&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya687&" alt="CSESandeepan39" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSESandeepan39" alt="CSESandeepan39" /></p>
 
 
 [linkedin]: https://www.linkedin.com/in/sandeepan-mohanty-979908204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo6ONfl5uTpupDW5q%2BfWvzw%3D%3D
