@@ -11,6 +11,9 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=CSESandeepan39 alt=chandrikadeb7/></p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CSESandeepan39" alt="aditya687" /></a> </p>
+
 ## Want to connect? My inbox is always open! 📫
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sandeepan-mohanty-979908204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPUcbzVBxSruDivUZiyiLjw%3D%3D"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
