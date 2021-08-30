@@ -12,7 +12,7 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=CSESandeepan39 alt=chandrikadeb7/></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CSESandeepan39" alt="aditya687" /></a> </p>
+
 
 ## Want to connect? My inbox is always open! 📫
 <p align="center">
