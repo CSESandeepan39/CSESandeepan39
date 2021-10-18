@@ -1,5 +1,6 @@
 ## Hi there, I'm Sandeepan👋
-<img src="https://i.imgur.com/TQHkirh.gif" align="center"/>
+
+<img align="right" alt="Coding" width="400" height="250" src="https://i.imgur.com/TQHkirh.gif"> 
 
 - 👨‍🏫 I have worked as a Web Dev Intern for Let's Grow More and The Sparks Foundation    
 - 🔭 Open-source contributor for GWOC'21 [Here](https://www.linkedin.com/posts/activity-6829694955611594752-U2He)
