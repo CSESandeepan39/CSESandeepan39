@@ -1,6 +1,6 @@
 ## Hi there, I'm Sandeepan👋
 
-<img align="right" alt="Coding" width="400" height="250" src="https://i.imgur.com/TQHkirh.gif"> 
+<img align="right" alt="Coding" width="400" height="270" src="https://i.imgur.com/TQHkirh.gif"> 
 
 - 👨‍🏫 I have worked as a Web Dev Intern for Let's Grow More and The Sparks Foundation    
 - 🔭 Open-source contributor for GWOC'21 [Here](https://www.linkedin.com/posts/activity-6829694955611594752-U2He)
@@ -8,6 +8,11 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play badminton and basketball
 - 👯 I’m looking to collaborate on Basic ML Projects
+ 
+ <br>
+ <br>
+ <br>
+ <br>
 
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=CSESandeepan39 alt=chandrikadeb7/></p>
