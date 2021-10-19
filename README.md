@@ -57,20 +57,17 @@ Recently, I am much involved in the "Competitive programming","Opensource","ML".
 
 
 
-### Earned Badges
-<img src="badge.png" alt="hacktoberfest2020" width="200" height="120">
 
 
 
-### 📶 Stats:
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=CSESandeepan39&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSESandeepan39&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSESandeepan39&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSESandeepan39" alt="CSESandeepan39" /></p>
-
+### Github Stats
+<p align = "center">
+<a href="https://github.com/CSESandeepan39">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CSESandeepan39&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSESandeepan39&theme=buefy&layout=compact" />
+</a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSESandeepan39&" alt="ad1" /></p>
 
 [linkedin]: https://www.linkedin.com/in/sandeepan-mohanty-979908204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo6ONfl5uTpupDW5q%2BfWvzw%3D%3D
 
