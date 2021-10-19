@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" height="270" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> 
 
-- 👨‍🏫 I have worked as a Web Dev Intern for Let's Grow More and The Sparks Foundation    
+    
 - 🔭 Open-source contributor for GWOC'21 [Here](https://www.linkedin.com/posts/activity-6829694955611594752-U2He)
 - 🌱 I’m currently learning Machine learning and Competitive Programming.
 - 🥅 Goals: Contribute more to Open Source projects
