@@ -1,4 +1,9 @@
-## Hi there, I'm Sandeepan👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Sandeepan+Mohanty&center=true&size=21">
+  </a>
+</h1>
+
 
 <img align="right" alt="Coding" width="400" height="270" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> 
 
@@ -64,12 +69,25 @@ Recently, I am much involved in the "Competitive programming","Opensource","ML".
 
 
 ### Github Stats
-<p align = "center">
-<a href="https://github.com/CSESandeepan39">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CSESandeepan39&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSESandeepan39&theme=buefy&layout=compact" />
-</a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSESandeepan39&" alt="ad1" /></p>
+br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CSESandeepan39&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=CSESandeepan39&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSESandeepan39&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=CSESandeepan39&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 [linkedin]: https://www.linkedin.com/in/sandeepan-mohanty-979908204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo6ONfl5uTpupDW5q%2BfWvzw%3D%3D
 
