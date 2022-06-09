@@ -21,7 +21,7 @@
  <br>
  <br>
 
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="1px">
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=CSESandeepan39 alt=chandrikadeb7/></p>
 
 
